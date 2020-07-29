@@ -19,7 +19,7 @@ https://hub.docker.com/repository/docker/takekazuomi/fluent-loganalytics
 ## TODO
 
 - `USER fluent` するかどうかが、current images と older images とで違っているので、確認する。latest が、older images だったので、edgeにして、current image 使うなら、`USER fluent` が必要なのかも
-
+- tagをバージョン指定にする。基本ベースイメージと合わせるのが良いと思う。TAG 取得のAPIもあるし。
 
 ## change log
 
