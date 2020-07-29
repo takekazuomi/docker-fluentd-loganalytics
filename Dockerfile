@@ -1,4 +1,4 @@
-FROM fluent/fluentd:latest
+FROM fluent/fluentd:edge
 
 USER root
 
